@@ -1,4 +1,4 @@
-## !Project
+## Project
 
 Tasker is an intuitive task management system designed for everyone. It enables easy creation and management of tasks with features such as task creation (title, desc, tags, due date, priority, owner), task listing, powerful search with 'debounce' for an enhanced experience
 
@@ -20,9 +20,7 @@ Tasker is an intuitive task management system designed for everyone. It enables 
 
 
 
-<!-- HOW TO RUN -->
-
-## ![rocketIcon][rocketicon-shield] How to run
+## How to run
 
 Please follow the below instructions to run this branch in your machine:
 
